@@ -1,0 +1,12 @@
+D:\ProgrammingProjects\FilesManager\FilesManager\bin\Debug\FilesManager.exe.config
+D:\ProgrammingProjects\FilesManager\FilesManager\bin\Debug\FilesManager.exe
+D:\ProgrammingProjects\FilesManager\FilesManager\bin\Debug\FilesManager.pdb
+D:\ProgrammingProjects\FilesManager\FilesManager\obj\Debug\FilesManager.csproj.AssemblyReference.cache
+D:\ProgrammingProjects\FilesManager\FilesManager\obj\Debug\FilesManager.csproj.SuggestedBindingRedirects.cache
+D:\ProgrammingProjects\FilesManager\FilesManager\obj\Debug\FilesManager.Form1.resources
+D:\ProgrammingProjects\FilesManager\FilesManager\obj\Debug\FilesManager.Properties.Resources.resources
+D:\ProgrammingProjects\FilesManager\FilesManager\obj\Debug\FilesManager.csproj.GenerateResource.cache
+D:\ProgrammingProjects\FilesManager\FilesManager\obj\Debug\FilesManager.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\FilesManager\FilesManager\obj\Debug\FilesManager.exe
+D:\ProgrammingProjects\FilesManager\FilesManager\obj\Debug\FilesManager.pdb
+D:\ProgrammingProjects\FilesManager\FilesManager\obj\Debug\FilesManager.AboutProgrammWindow.resources
